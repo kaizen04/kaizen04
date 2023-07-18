@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm MOHIT BHATT</h1>
-<h3 align="center">A passionate Cloud Data Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizen04&label=Profile%20views&color=0e75b6&style=flat" alt="kaizen04" /> </p>
+<h1 align="left">Hi 👋, I'm MOHIT BHATT</h1>
+<h3 align="left">A passionate Cloud Data Engineer from India</h3>
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
 - 💬 Ask me about **Python, SQL, Apache Spark, Hadoop, MySQL, Microsoft Azure, GCP**
 
-- 📫 How to reach me **mbhatt3004@gmail.com**
+- 📫 How to reach me :
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mbhatt3004@gmail.com.com&su=SUBJECT&body=BODY&tf=1" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/mohitcbhatt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<p align="left">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizen04&label=Profile%20views&color=0e75b6&style=flat" alt="kaizen04" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
