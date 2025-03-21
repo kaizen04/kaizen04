@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
-- 💬 Ask me about **Python, SQL, Apache Spark, Hadoop, MySQL, Microsoft Azure, GCP**
+- 💬 Ask me about **Python, SQL, Apache Spark, Data bricks, ADLS Gen2, Azure Data Factory, Microsoft Azure**
 
 - 📫 How to reach me :
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mbhatt3004@gmail.com&su=SUBJECT&body=BODY&tf=1" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
